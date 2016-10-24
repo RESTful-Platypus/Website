@@ -1,0 +1,17 @@
+body {
+	padding-top: 70px;
+}
+
+p {
+	line-height: 1.6em;
+}
+
+.nav-pills .nav-link.separator {
+	text-transform: uppercase;
+	font-size: 75%;
+	color: #999;
+}
+
+#playground input[name=uri] {
+	width: 100%;
+}
